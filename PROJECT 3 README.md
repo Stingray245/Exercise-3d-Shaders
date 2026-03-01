@@ -27,11 +27,7 @@ Description
  * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
  * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
 
-
-
-
 ## Future Development 
 Added "juicy features"
 
-## Created by
-Petra Hiller 
+## Created by: Petra Hiller
